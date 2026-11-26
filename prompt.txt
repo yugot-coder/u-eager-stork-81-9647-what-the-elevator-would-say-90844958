@@ -1,0 +1,7 @@
+Write the funniest one line a talking elevator could say, in the elevator's
+own voice, 1-120 characters. The program writes the line to
+/output/entry.txt (env MAKEFUN_OUTPUT_DIR).
+
+The line must come from the elevator's own job — its doors, floors, weight
+limits, buttons and waiting — land on the first read with a turn or a
+surprise, and be a fresh idea rather than a common elevator joke or a pun.
